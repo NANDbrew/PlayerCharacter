@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerPatch", "PlayerPatch.csproj", "{C01DB130-72CC-463A-911A-17E3B2342311}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Bread|Any CPU = Bread|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C01DB130-72CC-463A-911A-17E3B2342311}.Bread|Any CPU.ActiveCfg = Bread|Any CPU
+		{C01DB130-72CC-463A-911A-17E3B2342311}.Bread|Any CPU.Build.0 = Bread|Any CPU
+		{C01DB130-72CC-463A-911A-17E3B2342311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C01DB130-72CC-463A-911A-17E3B2342311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C01DB130-72CC-463A-911A-17E3B2342311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C01DB130-72CC-463A-911A-17E3B2342311}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CA80570-78FB-4A41-8373-2D8348ADEF17}
+	EndGlobalSection
+EndGlobal
