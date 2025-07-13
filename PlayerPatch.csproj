@@ -96,6 +96,7 @@
     <Compile Include="PlayerAvatarController.cs" />
     <Compile Include="PlayerCharPatch.cs" />
     <Compile Include="Plugin.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SaveLoad.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
